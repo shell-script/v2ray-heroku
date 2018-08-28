@@ -1,0 +1,42 @@
+{
+  "name": "V2Ray Easy To Use",
+  "description": "Deploy V2Ray(ws+tls+web) to Heroku easily.",
+  "keywords": ["V2Ray"],
+  "env": {
+    "AppName": {
+       "description": "请输入上方填写的App Name（用于生成二维码和订阅链接，默认：不生成）：",
+       "value": "no"
+     },
+    "VER": {
+       "description": "请输入欲安装的V2Ray版本号（例如：\"3.36\"，默认安装最新V2Ray版本）：",
+       "value": "latest"
+     },
+    "UUID": {
+       "description": "请输入UUID（默认：自动生成 或 \"f16e98c3-5a2e-4f84-b274-80093391e1c8\"）：",
+       "value": "f16e98c3-5a2e-4f84-b274-80093391e1c8"
+     },
+    "AlterID": {
+       "description": "请输入AlterID（默认为10）：",
+       "value": "10"
+     },
+	"Level": {
+       "description": "请输入Level（默认为1）：",
+       "value": "1"
+     }, 
+    "V2_Path": {
+       "description": "请输入Pattern（默认为 \"/shellscript\"）：",
+       "value": "/shellscript"
+     },
+    "V2_QR_Path": {
+       "description": "请输入二维码和订阅地址路径（默认为subscription；如AppName变量为\"no\"，则此项无效）：",
+       "value": "subscription"
+     },
+    "V2RAY_RAY_BUFFER_SIZE": {
+       "description": "请输入每个连接的缓存大小（单位MB，默认10）：",
+       "value": "10"
+     }
+  },
+  "website": "https://github.com/shell-script/v2ray-heroku",
+  "repository": "https://github.com/shell-script/v2ray-heroku",
+  "stack": "container"
+ }
