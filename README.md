@@ -1,6 +1,6 @@
 # V2Ray-HeroKu
 ## V2RAY EASY TO USE 
-### OneKey to deploy: [HeroKu/Deploy](https://heroku.com/deploy?template=https%3A%2F%2Fgithub.com%2F1715173329%2Fv2ray-heroku)
+### OneKey to deploy: [HeroKu/Deploy](https://heroku.com/deploy?template=https%3A%2F%2Fgithub.com%2Fshell-script%2Fv2ray-heroku)
 - - -
 - - -
 #### **Description**:
