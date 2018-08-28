@@ -81,8 +81,8 @@ cat <<-EOF > "/v2raybin/v2ray-${v2ray_version}-linux-${System_bit}/config.json"
             "clients":[
                 {
                     "id":"${UUID}",
-                    "level":"${Level}",
-                    "alterId":"${AlterID}"
+                    "level":${Level},
+                    "alterId":${AlterID}
                 }
             ]
         },
