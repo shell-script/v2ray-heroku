@@ -16,6 +16,6 @@ Default subscription url: https://{appname}.herokuapp.com/subscription
 ## Based 
 [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) <br/>
 [wangyi2005/v2ray-heroku](https://github.com/wangyi2005/v2ray-heroku) <br/>
-[1715173329/v2ray-heroku](https://github.com/1715173329/v2ray-heroku) **Deleted** <br/>
+1715173329/v2ray-heroku-undone \[**Deleted**\] <br/>
 [ki8852/v2ray-heroku-undone](https://github.com/ki8852/v2ray-heroku-undone) <br/>
 [jackjohnyang/HerokuV2ray](https://github.com/jackjohnyang/HerokuV2ray)
